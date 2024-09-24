@@ -1,0 +1,61 @@
+{
+  "rose": {
+    "image": "assets/rose.png",
+    "minSize": 10,
+    "maxSize": 30,
+    "frameDelay": 30,
+    "spawnCount": 10,
+    "buttonLabel": "Flower"
+  },
+  "incenseStick": {
+    "image": "assets/incense-stick.gif",
+    "startPosition": {
+        "x": 500,
+        "y": 700
+      },
+      "endPosition": {
+        "x": 1720,
+        "y": 600
+      },
+      "finalPosition": {
+        "x": 1720,
+        "y": 600
+      },
+    "buttonLabel": "Incense Stick",
+    "show": false
+  },
+  "modakTray": {
+    "image": "assets/modak.png",
+    "startPosition": {
+      "x": 100,
+      "y": 800
+    },
+    "endPosition": {
+      "x": 300,
+      "y": 600
+    },
+    "finalPosition": {
+      "x": 200,
+      "y": 600
+    },
+    "buttonLabel": "Modak Tray",
+    "show": false
+  },
+  "lamp": {
+    "image": "assets/diya.gif",
+    "startPosition": {
+      "x": 500,
+      "y": 700
+    },
+    "endPosition": {
+      "x": 600,
+      "y": 300
+    },
+    "finalPosition": {
+      "x": 600,
+      "y": 700
+    },
+    "buttonLabel": "Light Lamp",
+    "show": false
+  }
+}
